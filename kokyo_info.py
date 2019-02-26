@@ -24,7 +24,7 @@ def show_phone_number():
 
 
 def show_weather():
-    key = '3aeda3eb3478a482a96fda96e8cfbf65'
+    key = 'XXXXXXXXXXXXXXXXX'
     lat = '35.685175'
     lon = '139.752'
     lang = 'jp'
